@@ -40,3 +40,32 @@ Every PR must link an approved or confirmed issue with `Closes #123`, `Fixes #12
 ## Security & Configuration Tips
 
 Do not commit secrets, local config, or generated worktree artifacts. Before release-facing changes, run the relevant scan scripts in `scripts/`, especially `secret-scan.sh`, `base64-scan.sh`, and `prompt-injection-scan.sh`.
+
+
+
+
+
+When to Do This (Before It's Too Late)
+Warning Sign
+Chat feels slow or responses get shorter
+You see "approaching length limit" warning
+After every ~30-40 exchanges
+Before closing the browser
+What to Do
+Ask for summary NOW
+Ask for summary NOW
+Proactive summary
+Safety summary
+
+
+Generate a progress summary of our entire conversation including:
+- What we were working on
+- All decisions made
+- What was completed
+- What is pending/next steps
+- Any important context I need to continue
+Format it so I can paste it into a new chat and continue exactly where we left off.
+
+
+#"Summarize everything important from this chat — decisions made, code written,
+current status, next steps — as a document I can upload to my Project"
